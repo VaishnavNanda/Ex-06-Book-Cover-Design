@@ -135,7 +135,7 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 ## Output:
-![cover](https://user-images.githubusercontent.com/118707051/215272006-c3a5ee5c-aadb-4989-b8a2-f70e90576013.jpg)
+![v](https://user-images.githubusercontent.com/118707051/215272516-5df88967-839d-4aeb-ac10-31332ab4a40d.jpg)
 
 ### Validation:
 ![validation](https://user-images.githubusercontent.com/118707051/215272003-6a996113-5094-4c5b-a18d-350fcf7c0c0d.jpg)
